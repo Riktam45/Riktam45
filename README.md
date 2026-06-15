@@ -1,8 +1,10 @@
 ## Hi there
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8FBCBB&background=2E344000&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Riktam+Sarkar;A+passionate+software+developer;Learning+C+programming+%26+guitar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+World!;I'm+a+software+developer;Welcome+to+my+digital+space" alt="Typing SVG" />
 </div>
+
+
 
 <!--
 **Riktam45/Riktam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
