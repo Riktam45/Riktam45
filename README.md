@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,jupyter,git,github,vscode&perline=7" alt="Databases & Tools" />
+    <img src="https://skillicons.dev/icons?i=postgres,anaconda,matplot,git,github,vscode&perline=6" alt="Databases & Tools" />
   </a>
 </p>
 
