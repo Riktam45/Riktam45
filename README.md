@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Riktam45&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=onedark&hide_border=true" width="48%" alt="General Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riktam45&show_icons=true&theme=onedark&hide_border=true" width="48%" alt="General Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riktam45&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
 <!--
