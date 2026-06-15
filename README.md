@@ -14,12 +14,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,anaconda,matplot,git,github,vscode&perline=6" alt="Databases & Tools" />
+    <img src="https://skillicons.dev/icons?i=postgres,anaconda,git,github,vscode&perline=6" alt="Databases & Tools" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
+
 
 <!--
 **Riktam45/Riktam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
