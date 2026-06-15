@@ -33,13 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riktam45&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
-<!-- step 4 (The 4-Axis Coding Activity Radar Graph.) -->
-<h3 align="center">Coding Activity Focus</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/ranking?username=Ritktam45&theme=onedark&hide_border=true" alt="Riktam's Activity Radar" />
-</p>
-
 <!--
 **Riktam45/Riktam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
