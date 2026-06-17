@@ -33,6 +33,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riktam45&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
+
+<h3 align="center">🧭 Coding Activity Focus</h3>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Riktam's 3D Activity Graph" />
+</p>
+
 <!--
 **Riktam45/Riktam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
