@@ -42,9 +42,9 @@ I am a **Computer Science and Engineering student specializing in Data Science**
 ---
 
 <!-- TECH STACK & SKILL SECTION -->
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 💻 Languages & Core Concepts
+### - Languages & Core Concepts
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="35"/> &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="35"/> &nbsp;
@@ -53,13 +53,13 @@ I am a **Computer Science and Engineering student specializing in Data Science**
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="35"/>
 </p>
 
-### 🌐 Frameworks & Libraries
+### - Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="35"/> &nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" height="35"/>
 </p>
 
-### 📊 Databases & Data Science Tools
+### - Databases & Data Science Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="35"/> &nbsp;
   <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" height="35"/> &nbsp;
@@ -67,7 +67,7 @@ I am a **Computer Science and Engineering student specializing in Data Science**
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="35"/>
 </p>
 
-### 🔧 Tools, DevOps & Platforms
+### - Tools, DevOps & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="35"/> &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="35"/> &nbsp;
