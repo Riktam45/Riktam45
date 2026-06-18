@@ -17,9 +17,9 @@
 
 I am a **Computer Science and Engineering student specializing in Data Science**. My passion lies at the intersection of data-driven insights and intelligent web applications. I specialize in engineering robust machine learning models and transforming them into accessible user experiences through interactive websites and browser extensions.
 
-- 🔭 I’m currently developing advanced AI-powered web tools and data pipelines.
-- ⚙️ I love automating workflows and building lightweight, functional extensions.
-- 💬 Ask me about Data Science workflows, Full-stack Python architectures, or integration APIs.
+-  I’m currently developing advanced AI-powered web tools and data pipelines.
+-  I love automating workflows and building lightweight, functional extensions.
+-  Ask me about Data Science workflows, Full-stack Python architectures, or integration APIs.
 
 ---
 
