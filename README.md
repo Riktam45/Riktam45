@@ -13,7 +13,7 @@
 ---
 
 <!-- SHORT INTRO -->
-## 💫 About Me
+##  About Me
 
 I am a **Computer Science and Engineering student specializing in Data Science**. My passion lies at the intersection of data-driven insights and intelligent web applications. I specialize in engineering robust machine learning models and transforming them into accessible user experiences through interactive websites and browser extensions.
 
