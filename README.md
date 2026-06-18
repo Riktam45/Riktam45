@@ -121,10 +121,9 @@ I am a **Computer Science and Engineering student specializing in Data Science**
 
 <!-- FOOTER -->
 <div align="center">
-  <p>💡 <i>"Data is the new science. Big Data holds the answers."</i></p>
   <img src="https://komarev.com/ghpvc/?username=Riktam45&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br />
-  <sub>Built with ❤️ by Riktam45 © 2026</sub>
+  <sub>Built with by Riktam45 © 2026</sub>
 </div>
 
 <!--
