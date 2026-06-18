@@ -79,12 +79,12 @@ I am a **Computer Science and Engineering student specializing in Data Science**
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📌 Intelligent Web Application / Extension</h4>
+      <h4> -  Intelligent Web Application / Extension</h4>
       <p>An AI-powered web infrastructure built to interface seamlessly with modern client-side architectures.</p>
       <code>React</code> <code>Django</code> <code>JavaScript</code>
       <br><br>
