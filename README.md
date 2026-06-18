@@ -84,14 +84,14 @@ I am a **Computer Science and Engineering student specializing in Data Science**
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4> • Intelligent Web Application / Extension</h4>
+      <h4> ● Intelligent Web Application / Extension</h4>
       <p>An AI-powered web infrastructure built to interface seamlessly with modern client-side architectures.</p>
       <code>React</code> <code>Django</code> <code>JavaScript</code>
       <br><br>
       <a href="https://github.com/Riktam45">⭐ View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h4> • Predictive Data Science Pipeline</h4>
+      <h4> ● Predictive Data Science Pipeline</h4>
       <p>Advanced statistical modeling and machine learning structures analyzing localized data trends.</p>
       <code>Python</code> <code>MySQL</code> <code>Jupyter</code>
       <br><br>
