@@ -123,7 +123,7 @@ I am a **Computer Science and Engineering student specializing in Data Science**
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Riktam45&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br />
-  <sub>Built with by Riktam45 © 2026</sub>
+  <sub>Built by Riktam45 © 2026</sub>
 </div>
 
 <!--
